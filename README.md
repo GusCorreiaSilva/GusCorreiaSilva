@@ -1,28 +1,62 @@
-<h1 align="center">Ola 👋, eu sou Gustavo Correia da Silva</h1>
-<h3 align="center">Desenvolvedor frontend em formação</h3>
+<h2 align="center">Olá 👋🏼, me chamo Gustavo Correia da Silva</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guscorreiasilva&label=Profile%20views&color=0e75b6&style=flat" alt="guscorreiasilva" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guscorreiasilva" alt="guscorreiasilva" /></a> </p>
+<h4 align="center">Desenvolvedor FrontEnd em Formação</h4>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+###
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,UI/UX design e Figma**
+<p align="left">🌱 Estou estudando - HTML, CSS, JavaScript, UI/UX design e Figma</p>
 
-- 📫 How to reach me **gustaaavox@gmail.com**
+###
 
-- ⚡ Fun fact **Deficiente visual CID H18.6**
+<p align="left">📫 Entrar em contato -  gustaaavox@gmail.com</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gustavo correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo correia" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left">⚡Curiosidade - Deficiente visual, CID H18.6 e H10.4</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guscorreiasilva&show_icons=true&locale=en&layout=compact" alt="guscorreiasilva" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guscorreiasilva&show_icons=true&locale=en" alt="guscorreiasilva" /></p>
+<h3 align="left">Techs</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guscorreiasilva&" alt="guscorreiasilva" /></p>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+</div>
+
+###
+
+<h3 align="left">Social Media</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/gustavo-correia-88028324b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GusCorreiaSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GusCorreiaSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=GusCorreiaSilva&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GusCorreiaSilva&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
